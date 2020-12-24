@@ -1,5 +1,0 @@
-[0m[[0m[33mwarn[0m] [0m[0m/home/aarranz/Scala-Workspace/cleverbase-assigment/src/main/scala/core/Service.scala:24:35: match may not be exhaustive.[0m
-[0m[[0m[33mwarn[0m] [0m[0mIt would fail on the following input: Left(_)[0m
-[0m[[0m[33mwarn[0m] [0m[0m    val tokens = service.getTokens() match {[0m
-[0m[[0m[33mwarn[0m] [0m[0m                                  ^[0m
-[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
